@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head>
+<title>
+Inline CSS</title>
+</head>
+<body>
+<h3 "style=color:red">this is red headding</h3>
+<p "style=color:pink">This is pink para</p>
+</body>
+</html>
